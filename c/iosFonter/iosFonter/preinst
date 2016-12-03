@@ -1,0 +1,11 @@
+#!/bin/bash
+cp -p -n /System/Library/Fonts/Cache/Keycaps.ttc /System/Library/Fonts/Cache/Keycaps.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/STHeiti-Light.ttc /System/Library/Fonts/Cache/STHeiti-Light.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/STHeiti-Medium.ttc /System/Library/Fonts/Cache/STHeiti-Medium.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/STHeiti-Thin.ttc /System/Library/Fonts/Cache/STHeiti-Thin.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/STHeiti-UltraLight.ttc /System/Library/Fonts/Cache/STHeiti-UltraLight.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/_H_Helvetica.ttc /System/Library/Fonts/Cache/_H_Helvetica.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/_H_HelveticaNeue.ttc /System/Library/Fonts/Cache/_H_HelveticaNeue.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/_H_HelveticaNeueExtras.ttc /System/Library/Fonts/Cache/_H_HelveticaNeueExtras.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/_H_HelveticaNeueInterface.ttc /System/Library/Fonts/Cache/_H_HelveticaNeueInterface.ttc.miku
+cp -p -n /System/Library/Fonts/Cache/_H_HelveticaNeueLights.ttc /System/Library/Fonts/Cache/_H_HelveticaNeueLights.ttc.miku

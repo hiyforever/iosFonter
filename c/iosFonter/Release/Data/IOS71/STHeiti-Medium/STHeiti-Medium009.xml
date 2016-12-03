@@ -1,0 +1,61 @@
+    <!-- Copyright -->
+    <T n="1,0,0000,0">Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.</T>
+    <T n="3,1,0409,0">Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">.Heiti K</T>
+    <T n="3,1,0404,1">.黑體-韓語</T>
+    <T n="3,1,0409,1">.Heiti K</T>
+    <T n="3,1,0411,1">.黒体-韓国語</T>
+    <T n="3,1,0412,1">.Heiti-한국어</T>
+    <T n="3,1,0804,1">.黑体-韩语</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">Medium</T>
+    <T n="3,1,0404,2">中黑</T>
+    <T n="3,1,0406,2">Medium</T>
+    <T n="3,1,0407,2">Halbfett</T>
+    <T n="3,1,0409,2">Medium</T>
+    <T n="3,1,0409,2">Medium</T>
+    <T n="3,1,040b,2">Normaali</T>
+    <T n="3,1,040c,2">Moyen</T>
+    <T n="3,1,0410,2">Medio</T>
+    <T n="3,1,0411,2">ミディアム</T>
+    <T n="3,1,0412,2">중간체</T>
+    <T n="3,1,0413,2">Medium</T>
+    <T n="3,1,0414,2">Medium</T>
+    <T n="3,1,0416,2">Médio</T>
+    <T n="3,1,0419,2">Средний</T>
+    <T n="3,1,041d,2">Normal</T>
+    <T n="3,1,0804,2">中等</T>
+    <T n="3,1,0c0a,2">Media</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">.Heiti K Medium; 9.0d4e1; 2013-06-30</T>
+    <T n="3,1,0409,3">.Heiti K Medium; 9.0d4e1; 2013-06-30</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">.Heiti K Medium</T>
+    <T n="3,1,0404,4">.黑體-韓語 中黑</T>
+    <T n="3,1,0409,4">.Heiti K Medium</T>
+    <T n="3,1,0411,4">.黒体-韓国語 ミディアム</T>
+    <T n="3,1,0412,4">.Heiti-한국어 중간체</T>
+    <T n="3,1,0804,4">.黑体-韩语 中等</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">9.0d4e1</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">STHeitiK-Medium</T>
+
+    <!-- Trademark -->
+    <T n="1,0,0000,7">STHeiti K and SinoType are trademarks of Changzhou SinoType Technology Co., Ltd.</T>
+    <T n="3,1,0409,7">STHeiti K and SinoType are trademarks of Changzhou SinoType Technology Co., Ltd.</T>
+
+    <!-- Manufacturer -->
+    <T n="1,0,0000,8">SinoType</T>
+    <T n="3,1,0409,8">SinoType</T>
+
+  </Name>
+</Font>
+</Fonts>

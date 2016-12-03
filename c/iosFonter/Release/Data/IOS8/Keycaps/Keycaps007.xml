@@ -1,0 +1,42 @@
+﻿    <!-- Copyright -->
+    <T n="1,0,0000,0">© 1990-2009 Apple Computer Inc. © Diwan 1986-2009, © TiroType 2000, © Sinotype 2008, (c) Copyright DynaComware Corp. 2003, © Monotype Imaging 1989,  © 1981 Linotype AG © 1990-91 Type Solutions Inc.</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">.Keycaps</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">Light</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">.Keycaps Light; 10.0d12e1; 2014-07-27</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">.Keycaps Light</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">10.0d12e1</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">.Keycaps-Light</T>
+
+    <!-- unknown256 -->
+    <T n="1,0,0000,256">Ligatures</T>
+
+    <!-- unknown257 -->
+    <T n="1,0,0000,257">Common Ligatures</T>
+
+    <!-- unknown258 -->
+    <T n="1,0,0000,258">Required Ligatures</T>
+
+    <!-- unknown259 -->
+    <T n="1,0,0000,259">Character Alternatives</T>
+
+    <!-- unknown260 -->
+    <T n="1,0,0000,260">Alternate Punctuation</T>
+
+    <!-- unknown261 -->
+    <T n="1,0,0000,261">No Change</T>
+
+  </Name>
+</Font>
+</Fonts>
