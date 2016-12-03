@@ -1,0 +1,71 @@
+﻿    <!-- Copyright -->
+    <T n="1,0,0000,0">Copyright (c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its affiliated Linotype-Hell companies. All rights reserved.&#10;&#10;The digitally encoded machine readable software for producing the Typefaces licensed to you is now the property of Heidelberger Druckmaschinen AG and its licensors, and may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Heidelberger Druckmaschinen AG.&#10;&#10;Copyright (c) 1988, 1990, 1993 Adobe Systems Incorporated. All Rights Reserved.</T>
+    <T n="3,1,0409,0">Copyright (c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its affiliated Linotype-Hell companies. All rights reserved.&#10;&#10;The digitally encoded machine readable software for producing the Typefaces licensed to you is now the property of Heidelberger Druckmaschinen AG and its licensors, and may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Heidelberger Druckmaschinen AG.&#10;&#10;Copyright (c) 1988, 1990, 1993 Adobe Systems Incorporated. All Rights Reserved.</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">Helvetica Neue</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">UltraLight Italic</T>
+    <T n="3,1,0404,2">極細斜體</T>
+    <T n="3,1,0406,2">Ultramager kursiv</T>
+    <T n="3,1,0407,2">Extrafein, Kursiv</T>
+    <T n="3,1,0409,2">UltraLight Italic</T>
+    <T n="3,1,040b,2">Erikoisohut kursiivi</T>
+    <T n="3,1,040c,2">Ultrafin italique</T>
+    <T n="3,1,0410,2">Ultraleggero corsivo</T>
+    <T n="3,1,0411,2">ウルトラ・ライト・イタリック</T>
+    <T n="3,1,0412,2">아주 가는 이탤릭체</T>
+    <T n="3,1,0413,2">UltraLicht Cursief</T>
+    <T n="3,1,0414,2">Ultratynn kursiv</T>
+    <T n="3,1,0416,2">Itálico Ultra Leve</T>
+    <T n="3,1,0419,2">Сверхоблегченный курсивный</T>
+    <T n="3,1,041d,2">Extramager kursiv</T>
+    <T n="3,1,0804,2">超细斜体</T>
+    <T n="3,1,0c0a,2">Ultrafina cursiva</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">Helvetica Neue UltraLight Italic; 10.0d35e1; 2014-07-24</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">Helvetica Neue UltraLight Italic</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">10.0d35e1</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">HelveticaNeue-UltraLightItalic</T>
+
+    <!-- Trademark -->
+    <T n="1,0,0000,7">&quot;Helvetica Neue&quot; is a trademark of Heidelberger Druckmaschinen AG, which may be registered in certain jurisdictions, exclusivly licensed through Linotype Library GmbH, a wholly owned subsidiary of Heidelberger Druckmaschinen AG.</T>
+
+    <!-- Description -->
+    <T n="1,0,0000,10">Helvetica (Latin for Swiss) has the objective and functional style which was associated with Swiss typography in the 1950s and 1960s. It is perfect for international correspondence: no ornament, no emotion, just clear presentation of information. Helvetica is still one of the best selling sans-serif fonts.</T>
+
+    <!-- VendorURL -->
+    <T n="1,0,0000,11">http://www.LinotypeLibrary.com/</T>
+
+    <!-- DesignerURL -->
+    <T n="1,0,0000,12">http://www.LinotypeLibrary.com/</T>
+
+    <!-- unknown256 -->
+    <T n="1,0,0000,256">All Typographic Features</T>
+
+    <!-- unknown257 -->
+    <T n="1,0,0000,257">All Features</T>
+
+    <!-- unknown258 -->
+    <T n="1,0,0000,258">Ligatures</T>
+
+    <!-- unknown259 -->
+    <T n="1,0,0000,259">Common Ligatures</T>
+
+    <!-- unknown260 -->
+    <T n="1,0,0000,260">Unicode decomposition</T>
+
+    <!-- unknown261 -->
+    <T n="1,0,0000,261">Canonical composition</T>
+
+  </Name>
+</Font>
+</Fonts>

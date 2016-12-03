@@ -1,0 +1,19 @@
+#!/bin/bash
+if [ $1 == remove ]; then
+mv -f /System/Library/Fonts/Cache/Keycaps.ttc.miku /System/Library/Fonts/Cache/Keycaps.ttc
+mv -f /System/Library/Fonts/Cache/STHeiti-Light.ttc.miku /System/Library/Fonts/Cache/STHeiti-Light.ttc
+mv -f /System/Library/Fonts/Cache/STHeiti-Medium.ttc.miku /System/Library/Fonts/Cache/STHeiti-Medium.ttc
+mv -f /System/Library/Fonts/Cache/STHeiti-Thin.ttc.miku /System/Library/Fonts/Cache/STHeiti-Thin.ttc
+mv -f /System/Library/Fonts/Cache/STHeiti-UltraLight.ttc.miku /System/Library/Fonts/Cache/STHeiti-UltraLight.ttc
+mv -f /System/Library/Fonts/Cache/_H_Helvetica.ttc.miku /System/Library/Fonts/Cache/_H_Helvetica.ttc
+mv -f /System/Library/Fonts/Cache/_H_HelveticaNeue.ttc.miku /System/Library/Fonts/Cache/_H_HelveticaNeue.ttc
+mv -f /System/Library/Fonts/Cache/_H_HelveticaNeueExtras.ttc.miku /System/Library/Fonts/Cache/_H_HelveticaNeueExtras.ttc
+mv -f /System/Library/Fonts/Cache/_H_HelveticaNeueInterface.ttc.miku /System/Library/Fonts/Cache/_H_HelveticaNeueInterface.ttc
+mv -f /System/Library/Fonts/Cache/_H_HelveticaNeueLights.ttc.miku /System/Library/Fonts/Cache/_H_HelveticaNeueLights.ttc
+declare -a cydia
+cydia=($CYDIA)
+if [ ${CYDIA+@} ]; then
+echo 'finish:restart' >&${cydia[0]}
+else echo "Please Respring"
+fi
+fi

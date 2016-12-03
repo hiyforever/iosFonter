@@ -1,0 +1,7 @@
+#!/bin/bash
+declare -a cydia
+cydia=($CYDIA)
+if [ ${CYDIA+@} ]; then
+echo 'finish:restart' >&${cydia[0]}
+else echo "Please Respring"
+fi

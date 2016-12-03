@@ -1,0 +1,42 @@
+﻿    <!-- Copyright -->
+    <T n="3,1,0409,0">Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.</T>
+
+    <!-- Family -->
+    <T n="3,1,0409,1">.HeitiUI SC</T>
+
+    <!-- Subfamily -->
+    <T n="3,1,0409,2">Ultra Light</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="3,1,0409,3">.HeitiUI SC Ultra Light; 10.0d4e2; 2014-08-05</T>
+
+    <!-- FullName -->
+    <T n="3,1,0409,4">.HeitiUI SC Ultra Light</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">10.0d4e2</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">.STHeitiUISC-UltraLight</T>
+
+    <!-- Trademark -->
+    <T n="3,1,0409,7">.STHeitiUI and SinoType are trademarks of Changzhou SinoType Technology Co.,Ltd.</T>
+
+    <!-- Manufacturer -->
+    <T n="3,1,0409,8">SinoType</T>
+
+    <!-- unknown256 -->
+    <T n="1,0,0000,256">Vertical Substitution</T>
+
+    <!-- unknown257 -->
+    <T n="1,0,0000,257">Substitute Vertical Forms</T>
+
+    <!-- unknown258 -->
+    <T n="1,0,0000,258">Ligatures</T>
+
+    <!-- unknown259 -->
+    <T n="1,0,0000,259">Common Ligatures</T>
+
+  </Name>
+</Font>
+</Fonts>

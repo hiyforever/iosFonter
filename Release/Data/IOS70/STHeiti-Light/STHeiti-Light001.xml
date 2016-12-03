@@ -1,0 +1,74 @@
+    <!-- Copyright -->
+    <T n="1,0,0000,0">Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.</T>
+    <T n="3,1,0409,0">Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">.HeitiUI TC</T>
+    <T n="3,1,0404,1">.黑體UI-繁</T>
+    <T n="3,1,0409,1">.HeitiUI TC</T>
+    <T n="3,1,0411,1">.黒体UI-繁</T>
+    <T n="3,1,0412,1">.HeitiUI-번체</T>
+    <T n="3,1,0804,1">.黑体UI-繁</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">Light</T>
+    <T n="3,1,0404,2">細體</T>
+    <T n="3,1,0406,2">Mager</T>
+    <T n="3,1,0407,2">Fein</T>
+    <T n="3,1,0409,2">Light</T>
+    <T n="3,1,0409,2">Light</T>
+    <T n="3,1,040b,2">Ohut</T>
+    <T n="3,1,040c,2">Fin</T>
+    <T n="3,1,0410,2">Leggero</T>
+    <T n="3,1,0411,2">ライト</T>
+    <T n="3,1,0412,2">가는체</T>
+    <T n="3,1,0413,2">Licht</T>
+    <T n="3,1,0414,2">Tynn</T>
+    <T n="3,1,0416,2">Leve</T>
+    <T n="3,1,0419,2">Светлый</T>
+    <T n="3,1,041d,2">Mager</T>
+    <T n="3,1,0804,2">细体</T>
+    <T n="3,1,0c0a,2">Fina</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">.HeitiUI TC Light; 9.0d4e1; 2013-06-30</T>
+    <T n="3,1,0409,3">.HeitiUI TC Light; 9.0d4e1; 2013-06-30</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">.HeitiUI TC Light</T>
+    <T n="3,1,0404,4">.黑體UI-繁 細體</T>
+    <T n="3,1,0409,4">.HeitiUI TC Light</T>
+    <T n="3,1,0411,4">.黒体UI-繁 ライト</T>
+    <T n="3,1,0412,4">.HeitiUI-번체 가는체</T>
+    <T n="3,1,0804,4">.黑体UI-繁 细体</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">9.0d4e1</T>
+    <T n="3,1,0409,5">9.0d4e1</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">.STHeitiUITC-Light</T>
+
+    <!-- Trademark -->
+    <T n="1,0,0000,7">.STHeitiUI and SinoType are trademarks of Changzhou SinoType Technology Co., Ltd.</T>
+    <T n="3,1,0409,7">.STHeitiUI and SinoType are trademarks of Changzhou SinoType Technology Co., Ltd.</T>
+
+    <!-- Manufacturer -->
+    <T n="1,0,0000,8">SinoType</T>
+    <T n="3,1,0409,8">SinoType</T>
+
+    <!-- unknown256 -->
+    <T n="1,0,0000,256">Vertical Substitution</T>
+
+    <!-- unknown257 -->
+    <T n="1,0,0000,257">Substitute Vertical Forms</T>
+
+    <!-- unknown258 -->
+    <T n="1,0,0000,258">Ligatures</T>
+
+    <!-- unknown259 -->
+    <T n="1,0,0000,259">Common Ligatures</T>
+
+  </Name>
+</Font>
+</Fonts>

@@ -1,0 +1,101 @@
+    <!-- Copyright -->
+    <T n="1,0,0000,0">Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted © 2003 - 2006 Linotype GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype GmbH, and may not be reproduced, modified, disclosed or transferred without the express written approval of Linotype GmbH. Copyright © 1988, 1990, 1993 Adobe Systems Incorporated. All Rights Reserved. Helvetica is a trademark of Heidelberger Druckmaschinen AG, exclusively licensed through Linotype GmbH, and may be registered in certain jurisdictions. This typeface is original artwork of Linotype Design Studio. The design may be protected in certain jurisdictions.</T>
+
+    <!-- Family -->
+    <T n="1,0,0000,1">Helvetica Neue</T>
+
+    <!-- Subfamily -->
+    <T n="1,0,0000,2">Medium</T>
+    <T n="3,1,0404,2">中黑</T>
+    <T n="3,1,0406,2">Medium</T>
+    <T n="3,1,0407,2">Halbfett</T>
+    <T n="3,1,0409,2">Medium</T>
+    <T n="3,1,040b,2">Medium</T>
+    <T n="3,1,040c,2">Moyen</T>
+    <T n="3,1,0410,2">Medio</T>
+    <T n="3,1,0411,2">ミディアム</T>
+    <T n="3,1,0412,2">중간체</T>
+    <T n="3,1,0413,2">Medium</T>
+    <T n="3,1,0414,2">Medium</T>
+    <T n="3,1,0416,2">Médio</T>
+    <T n="3,1,0419,2">Средний</T>
+    <T n="3,1,041d,2">Medel</T>
+    <T n="3,1,0804,2">中等</T>
+    <T n="3,1,0c01,2">متوسط</T>
+    <T n="3,1,0c0a,2">Media</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="1,0,0000,3">Helvetica Neue Medium; 9.0d49e3; 2013-07-25</T>
+
+    <!-- FullName -->
+    <T n="1,0,0000,4">Helvetica Neue Medium</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">9.0d49e3</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">HelveticaNeue-Medium</T>
+
+    <!-- Trademark -->
+    <T n="1,0,0000,7">Helvetica is a trademark of Heidelberger Druckmaschinen AG, exclusively licensed through Linotype GmbH, and may be registered in certain jurisdictions.</T>
+
+    <!-- Designer -->
+    <T n="1,0,0000,9">Linotype Design Studio</T>
+
+    <!-- Description -->
+    <T n="1,0,0000,10">Helvetica (Latin for Swiss) has the objective and functional style which was associated with Swiss typography in the 1950s and 1960s. It is perfect for international correspondence: no ornament, no emotion, just clear presentation of information. Helvetica is still one of the best selling sans-serif fonts.</T>
+
+    <!-- VendorURL -->
+    <T n="1,0,0000,11">http://www.linotype.com</T>
+
+    <!-- DesignerURL -->
+    <T n="1,0,0000,12">http://www.linotype.com/fontdesigners</T>
+
+    <!-- unknown256 -->
+    <T n="1,0,0000,256">All Typographic Features</T>
+
+    <!-- unknown257 -->
+    <T n="1,0,0000,257">All Features</T>
+
+    <!-- unknown258 -->
+    <T n="1,0,0000,258">Ligatures</T>
+
+    <!-- unknown259 -->
+    <T n="1,0,0000,259">Common Ligatures</T>
+
+    <!-- unknown260 -->
+    <T n="1,0,0000,260">Unicode decomposition</T>
+
+    <!-- unknown261 -->
+    <T n="1,0,0000,261">Canonical composition</T>
+
+    <!-- unknown262 -->
+    <T n="0,4,0001,262">Character Alternatives</T>
+
+    <!-- unknown263 -->
+    <T n="0,4,0001,263">Alternate Punctuation</T>
+
+    <!-- unknown264 -->
+    <T n="0,4,0001,264">No Change</T>
+
+    <!-- unknown265 -->
+    <T n="0,4,0001,265">Numbers Punctuation</T>
+
+    <!-- unknown266 -->
+    <T n="0,4,0001,266">Number Spacing</T>
+
+    <!-- unknown267 -->
+    <T n="0,4,0001,267">Proportional Numbers</T>
+
+    <!-- unknown268 -->
+    <T n="0,4,0001,268">Language Tag</T>
+
+    <!-- unknown269 -->
+    <T n="0,4,0001,269">Romanian</T>
+
+    <!-- unknown270 -->
+    <T n="0,4,0001,270">Rare Ligatures</T>
+
+  </Name>
+</Font>
+</Fonts>

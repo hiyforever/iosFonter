@@ -1,0 +1,30 @@
+﻿    <!-- Copyright -->
+    <T n="3,1,0409,0">Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.</T>
+
+    <!-- Family -->
+    <T n="3,1,0409,1">.HeitiUI K</T>
+
+    <!-- Subfamily -->
+    <T n="3,1,0409,2">Thin</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="3,1,0409,3">.HeitiUI K Thin; 10.0d4e2; 2014-08-05</T>
+
+    <!-- FullName -->
+    <T n="3,1,0409,4">.HeitiUI K Thin</T>
+
+    <!-- Version -->
+    <T n="1,0,0000,5">10.0d4e2</T>
+
+    <!-- PostscriptName -->
+    <T n="1,0,0000,6">.STHeitiUIK-Thin</T>
+
+    <!-- Trademark -->
+    <T n="1,0,0000,7">.STHeitiUI and SinoType are trademarks of Changzhou SinoType Technology Co., Ltd.</T>
+
+    <!-- Manufacturer -->
+    <T n="3,1,0409,8">SinoType</T>
+
+  </Name>
+</Font>
+</Fonts>

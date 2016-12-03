@@ -1,0 +1,9 @@
+﻿Package: tk.miku.font
+Architecture: iphoneos-arm
+Version: 1.0
+Name: 字体
+Author: Miku <miku@miku.tk>
+Icon: file:///System/Library/Fonts/icon.ico
+Section: 字体
+Description: 基于iosfonter的字体包
+Homepage: http://miku.tk/iosfonter
