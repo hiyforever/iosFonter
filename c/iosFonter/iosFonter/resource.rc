@@ -1,0 +1,221 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAIN DIALOGEX 0, 0, 299, 181
+STYLE DS_SETFONT | DS_CENTER | WS_MINIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "iosFonter"
+FONT 10, "新宋体", 400, 0, 0x86
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,0,0,299,180
+    CTEXT           "中文字体：",IDC_zh,0,40,60,10,SS_CENTERIMAGE | NOT WS_GROUP
+    CTEXT           "英文字体：",IDC_en,0,85,60,10,SS_CENTERIMAGE | NOT WS_GROUP
+    CTEXT           "键盘字体：",IDC_kc,0,150,60,10,SS_CENTERIMAGE | NOT WS_GROUP
+    PUSHBUTTON      "_H_HelveticaNeueExtras",IDCHNE,45,115,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "Keycaps",IDCK,45,160,105,14,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "_H_HelveticaNeueInterface",IDCHNI,165,115,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "_H_HelveticaNeue",IDCHN,165,95,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "_H_Helvetica",IDCH,45,95,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "STHeiti-Thin",IDCSTT,45,70,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "STHeiti-UltraLight",IDCSTU,165,70,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "STHeiti-Medium",IDCSTM,165,50,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "STHeiti-Light",IDCSTL,45,50,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    DEFPUSHBUTTON   "选择文件",IDCFILE,195,5,75,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    EDITTEXT        IDCPATH,45,5,120,15,ES_AUTOHSCROLL | ES_READONLY | NOT WS_TABSTOP,WS_EX_ACCEPTFILES
+    CONTROL         "ios7.0.x",IDCR1,"Button",BS_AUTORADIOBUTTON,50,28,45,10
+    CONTROL         "ios7.1.x",IDCR2,"Button",BS_AUTORADIOBUTTON,115,28,45,10
+    PUSHBUTTON      "_H_HelveticaNeueLights",IDCHNL,45,135,105,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    CONTROL         "ios8.0.x",IDCR3,"Button",BS_AUTORADIOBUTTON,180,28,45,10
+    LTEXT           "打包已生成字体\n    为deb安装包：",IDC_deb,165,135,105,16,NOT WS_GROUP
+    PUSHBUTTON      "选择要打包的已生成字体",IDCDEB,165,155,105,19,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+END
+
+IDD_NAIN DIALOGEX 0, 0, 199, 135
+STYLE DS_SETFONT | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "参数设置"
+FONT 10, "新宋体", 400, 0, 0x86
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,0,0,199,132
+    LTEXT           "Ascender：",IDC_STATIC,5,5,50,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "Descender：",IDC_STATIC,100,5,55,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "TypoAscender：",IDC_STATIC,5,25,50,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "TypoDescender：",IDC_STATIC,100,25,55,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "WinDescender：",IDC_STATIC,100,45,55,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "WinAscender：",IDC_STATIC,5,45,50,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "Codepage1：",IDC_STATIC,5,65,50,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "Codepage2：",IDC_STATIC,100,65,55,15,SS_CENTERIMAGE | NOT WS_GROUP
+    LTEXT           "AverageCharWidth：",IDC_STATIC,30,85,70,15,SS_CENTERIMAGE | NOT WS_GROUP
+    DEFPUSHBUTTON   "确定",IDB1,10,110,40,15,BS_CENTER | BS_VCENTER
+    PUSHBUTTON      "取消",IDB2,60,110,40,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    PUSHBUTTON      "恢复默认",IDB3,155,110,40,15,BS_CENTER | BS_VCENTER | NOT WS_TABSTOP
+    EDITTEXT        IDE1,55,5,45,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE2,155,5,40,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE3,55,25,45,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE4,155,25,40,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE5,55,45,45,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE6,155,45,40,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE7,55,65,45,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE8,155,65,40,15,ES_AUTOHSCROLL
+    EDITTEXT        IDE9,100,85,55,15,ES_AUTOHSCROLL
+END
+
+IDD_VAIN DIALOGEX 0, 0, 199, 140
+STYLE DS_SETFONT | DS_CENTERMOUSE | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "请选择已生成的字体（Fonts文件夹下）"
+FONT 10, "新宋体", 400, 0, 0x86
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_WHITERECT,0,0,198,139
+    CONTROL         "STHeiti-Light",IDC1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,15,18,85,20
+    CONTROL         "STHeiti-Medium",IDC2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,105,18,80,20
+    CONTROL         "STHeiti-Thin",IDC3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,15,37,85,20
+    CONTROL         "STHeiti-UltraLight",IDC4,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,105,37,80,20
+    CONTROL         "_H_Helvetica",IDC5,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,15,55,85,20
+    CONTROL         "_H_HelveticaNeue",IDC6,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,105,55,80,20
+    CONTROL         "_H_Helvetica\n    NeueExtras",IDC7,"Button",BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,15,75,85,20
+    CONTROL         "_H_Helvetica\n    NeueInterface",IDC8,"Button",BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,105,75,80,20
+    CONTROL         "_H_Helvetica\n    NeueLights",IDC9,"Button",BS_AUTOCHECKBOX | BS_MULTILINE | WS_TABSTOP,15,95,85,20
+    CONTROL         "Keycaps",IDC10,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,105,95,80,20
+    PUSHBUTTON      "确定",IDB4,15,120,40,15
+    PUSHBUTTON      "取消",IDB5,61,120,39,15,NOT WS_TABSTOP
+    PUSHBUTTON      "全不选",IDB6,144,120,41,15,NOT WS_TABSTOP
+    LTEXT           "提示：默认叠加安装包，保留已安装字体，无需再打包\n      如需恢复原字体在Cydia卸载字体即可",IDC_STATIC,0,0,198,18
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+1                       ICON                    "icon.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_MAIN, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 180
+    END
+
+    IDD_NAIN, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 132
+    END
+
+    IDD_VAIN, DIALOG
+    BEGIN
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "Miku.TK"
+            VALUE "FileDescription", "ios字体适配工具"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "iosFonter"
+            VALUE "LegalCopyright", "Copyright (C) 2014 Miku.TK"
+            VALUE "OriginalFilename", "iosFonter"
+            VALUE "ProductName", "iosFonter"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
